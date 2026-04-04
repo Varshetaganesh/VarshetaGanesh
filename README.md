@@ -5,7 +5,7 @@
 ---
 
 ### 🎓 Professional Summary
-Third-year Undergraduate at **RNS Institute of Technology**, specializing in Artificial Intelligence and Machine Learning. I possess a strong foundation in **Data Structures & Algorithms (Java/C++)** and a proven track record of building end-to-end AI applications, from real-time crowd management to complex database systems.
+Third-year Undergraduate at **RNS Institute of Technology**, specializing in Artificial Intelligence and Machine Learning. I possess a strong foundation in **Data Structures & Algorithms (Java/Python)** and a proven track record of building end-to-end AI applications, from real-time crowd management to complex database systems.
 
 ---
 
@@ -42,5 +42,5 @@ Third-year Undergraduate at **RNS Institute of Technology**, specializing in Art
 
 
 ### 🤝 Contact & Professional Links
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/varsheta-ganesh) 
-[<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />](https://leetcode.com/u/varshe/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/varsheta-ganesh-5890032a7) 
+
