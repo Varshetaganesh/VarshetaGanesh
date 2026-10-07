@@ -5,7 +5,7 @@
 ---
 
 ### 🎓 Professional Summary
-Third-year Undergraduate at **RNS Institute of Technology**, specializing in Artificial Intelligence and Machine Learning. I possess a strong foundation in **Data Structures & Algorithms (Java/Python)** and a proven track record of building end-to-end AI applications, from real-time crowd management to complex database systems.
+Final-year Undergraduate at **RNS Institute of Technology**, specializing in Artificial Intelligence and Machine Learning. I possess a strong foundation in **Data Structures & Algorithms (Java/Python)** and a proven track record of building end-to-end AI applications, from real-time crowd management to complex database systems.
 
 ---
 
